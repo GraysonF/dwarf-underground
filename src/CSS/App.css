@@ -13,28 +13,6 @@ h1, h2, h3, h4, h5, h6 {
   padding: 30px 20px;
 }
 
-.avatar {
-  height: 80px;
-}
-
-.avatar img {
-  border-radius: 50%;
-  height: 80px;
-  display: inline-block;
-  margin-top: -24px;
-}
-
-.author-info {
-  display: inline-block;
-  padding: 10px;
-}
-
-.author-info p {
-  margin: 0;
-  padding: 5px 0;
-  color: #666;
-}
-
 
 .article-body {
   margin-top: 30px;
