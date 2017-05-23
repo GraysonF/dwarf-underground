@@ -11,9 +11,11 @@ class ArticleLinks extends Component {
     }
     
     showComments(e) {
+        e.preventDefault()
         const condition = this.state.hidden;
         this.setState({hidden: !condition});
         //console.log(this.state.hidden)
+
     }
     
 
