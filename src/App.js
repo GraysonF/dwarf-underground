@@ -9,6 +9,7 @@ import Ad from './Ad.js'
 import OtherArticles from './OtherArticles.js'
 import Footer from './Footer.js'
 import Links from './Links.js'
+import Comment from './Comment.js'
 
 class App extends Component {
   render() {
@@ -21,6 +22,7 @@ class App extends Component {
         <ArticleInfo />
         <ArticleBody />
         <ArticleLinks />
+        <br/>
       </div>
       <aside className="large-4 medium-12 columns">
         <Ad />
