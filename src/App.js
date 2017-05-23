@@ -8,6 +8,7 @@ import ArticleLinks from './ArticleLinks.js'
 import Ad from './Ad.js'
 import OtherArticles from './OtherArticles.js'
 import Footer from './Footer.js'
+import Links from './Links.js'
 
 class App extends Component {
   render() {
